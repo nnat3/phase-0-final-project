@@ -1,5 +1,6 @@
 .body {
- background: black;
+ background: gray;
+ color: white;
 }
 
 #navbar {
@@ -19,4 +20,14 @@
     color: silver;
     font-size: 35px;
     margin-left: 20px;
+}
+
+#content {
+    display: flex;
+    border: 2px solid gray;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    align-items: center;
+    margin-left: 300px;
 }
