@@ -1,0 +1,22 @@
+.body {
+ background: black;
+}
+
+#navbar {
+    color: thistle;
+    font-size: 17px;
+    display: flex;
+    justify-content: space-evenly
+}
+
+.name {
+    font-size: 25px;
+    color: darkkhaki;
+    display: flex;
+}
+
+.name span {
+    color: silver;
+    font-size: 35px;
+    margin-left: 20px;
+}
